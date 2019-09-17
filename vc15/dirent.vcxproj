@@ -96,7 +96,7 @@
       <PrecompiledHeaderOutputFile>$(IntDir)dirent.pch</PrecompiledHeaderOutputFile>
       <AssemblerListingLocation>$(IntDir)Release/</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>$(IntDir)\dirent_a_debug.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
@@ -128,7 +128,7 @@
       <PrecompiledHeaderOutputFile>$(IntDir)dirent.pch</PrecompiledHeaderOutputFile>
       <AssemblerListingLocation>$(IntDir)Release/</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>$(IntDir)\dirent_a_debug.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -158,7 +158,7 @@
       <PrecompiledHeaderOutputFile>$(IntDir)dirent.pch</PrecompiledHeaderOutputFile>
       <AssemblerListingLocation>$(IntDir)Release/</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>$(IntDir)\dirent_a.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </ClCompile>
@@ -190,7 +190,7 @@
       <PrecompiledHeaderOutputFile>$(IntDir)dirent.pch</PrecompiledHeaderOutputFile>
       <AssemblerListingLocation>$(IntDir)Release/</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>$(IntDir)</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>$(IntDir)\dirent_a.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </ClCompile>
